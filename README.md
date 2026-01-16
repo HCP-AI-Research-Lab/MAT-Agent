@@ -2,7 +2,7 @@
 
 > Official implementation for the NeurIPS 2025 paper **["MAT-Agent: Adaptive Multi-Agent Training Optimization"](https://arxiv.org/abs/2510.17845)**.
 
-**[![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-orange.svg)](https://neurips.cc/virtual/2025/loc/san-diego/poster/117440) [![Arxiv](https://img.shields.io/badge/Arxiv-PDF-b31b1b.svg)](https://arxiv.org/abs/2510.17845)**
+**[![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-orange.svg)](https://neurips.cc/virtual/2025/loc/san-diego/poster/117440) | [![Arxiv](https://img.shields.io/badge/Arxiv-PDF-b31b1b.svg)](https://arxiv.org/abs/2510.17845)** | [中文](README_zh.md)
 
 ---
 
