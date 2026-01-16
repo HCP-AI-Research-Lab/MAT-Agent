@@ -17,7 +17,7 @@
 * **🎯 Composite Reward:** Guided by a reward system that harmonizes accuracy, rare-class performance, and training stability.
 * **🚀 SOTA Performance:** Achieves **97.4 mAP** on Pascal VOC 2007 and **92.8 mAP** on MS-COCO, significantly outperforming conventional static training methods.
 
-For more details, please refer to our [paper](https://arxiv.org/abs/2510.17845).
+For more details, please refer to our [**paper**](https://arxiv.org/abs/2510.17845).
 
 ---
 
@@ -103,18 +103,17 @@ datasets/
 
 ## 🚀 Usage
 
-### Training on MS-COCO
+### Training & Evaluating on MS-COCO
 
-To train the model on the MS-COCO dataset using the adaptive multi-agent framework:
+To train and evaluate the model on the MS-COCO dataset using MAT-Agent:
 
 ```bash
 python3 run_coco.py
-
 ```
 
 ### Training on Pascal VOC
 
-To train on Pascal VOC 2007:
+To train and evaluate on Pascal VOC 2007:
 
 ```bash
 python3 run_voc.py
@@ -156,4 +155,4 @@ If you find our work or code helpful, please cite our paper:
 
 ## 📄 License
 
-This project is released under the [MIT License](https://www.google.com/search?q=LICENSE).
+This project is released under the [MIT License](LICENSE).
