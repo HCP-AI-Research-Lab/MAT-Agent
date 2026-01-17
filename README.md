@@ -25,7 +25,7 @@ For more details, please refer to our [**paper**](https://arxiv.org/abs/2510.178
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Basicname/MAT-Agent
+git clone https://github.com/HCP-AI-Research-Lab/MAT-Agent
 ```
 ### 2. Environment Setup
 
